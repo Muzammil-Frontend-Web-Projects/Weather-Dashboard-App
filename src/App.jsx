@@ -167,7 +167,6 @@ function App() {
       <div className="app-header">
         <h1>Weather Dashboard</h1>
         <p>Get real-time weather information for any city</p>
-        <p style={{fontSize: '0.9rem', opacity: 0.8}}>Free API - No Key Required</p>
       </div>
 
       <SearchBar onSearch={fetchWeatherData} loading={loading} />
