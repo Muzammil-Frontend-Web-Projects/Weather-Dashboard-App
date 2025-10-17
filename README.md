@@ -1,4 +1,4 @@
-![Project Banner](./Images%20for%20readme%20file/Banner.png)
+![Project Banner](./Images/Banner.png)
 
 A modern, responsive weather application built with React and Vite that provides real-time weather information for any city worldwide.
 
